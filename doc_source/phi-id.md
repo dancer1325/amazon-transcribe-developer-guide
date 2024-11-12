@@ -1,9 +1,15 @@
 # Identifying personal health information \(PHI\) in a transcription<a name="phi-id"></a>
 
-Use *Personal Health Information Identification* to label personal health information \(PHI\) in your transcription results\. By reviewing labels, you can find PHI that could be used to identify a patient\.
-
-You can identify PHI using either a real\-time stream or batch transcription job\. 
-
+* PHI
+  * == Personal Health Information
+* *Personal Health Information Identification*
+  * uses   
+    * label PHI | your transcription results
+      * -> identify a patient
+* ways to identify PHI
+  * real-time stream
+  * batch transcription job 
+* TODO:
 You can use your own post\-processing to redact the PHI identified in the transcription output\.
 
 Use Personal Health Information Identification to identify the following types of PHI:
